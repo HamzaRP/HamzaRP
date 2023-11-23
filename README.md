@@ -4,6 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaRP&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRP-&hide_progress=true&theme=merko)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaRP&bg_color=000000&color=008000&line=7FFF00&point=6B8E23&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaRP&bg_color=000000&color=543e97&line=7FFF00&point=6B8E23&area=true&hide_border=true)]
 
 

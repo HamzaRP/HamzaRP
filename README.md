@@ -6,5 +6,15 @@
 - 🎓 Técnico em Desenvolvimento de Sistemas
 - 🚀 Sempre aprendendo mais sobre tecnologia
 
-
 ---
+
+## 🌐 Onde me achar
+
+<p align="left">
+  <a href="https://github.com/HamzaRP">
+    <img src="https://img.shields.io/badge/GitHub-viniciusbrandao98-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-oliveira-brandao/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Brandão-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333" height="30">
+  </a>
+</p>
